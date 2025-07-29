@@ -1,2 +1,2 @@
 ﻿# Calorie counter
-Ejercico de Free Code Camp para contar calorías.
+Ejercicio de Free Code Camp para contar calorías.
